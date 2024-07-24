@@ -5,7 +5,7 @@ Data Analytics student at Turing College with experience in working with SQL, Py
 ## Technical Skillset :computer:
 - **SQL**: BigQuery, MySQL
 - **Data Visualisation**: Tableau, Spreadsheets, PowerPoint
-- **Basic Python**: Python for Data Analysis and Visualisation including libraries like pandas, matplotlib, plotly
+- **Basic Python**: Python for Data Analysis and Visualisation. Libraries include pandas, matplotlib, plotly
 - **Office Tools & File Management**: MS Office, Google Workspace, Google Drive, Dropbox
 
 ## Professional Experience :test_tube:
