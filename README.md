@@ -1,6 +1,6 @@
 # Hello, I'm Gabriele Vadeikyte :wave:
 ## About Me
-Data Analytics student at Turing College with experience in working with SQL, Python and Tableau. With a passion for  data analytics and a background in Pharmaceutical Manufacturing, I am eager to apply my analytical skills and industry knowledge to data-driven decision-making processes.  
+Data Analytics graduate with experience in working with SQL, Python and Tableau. With a passion for  data analytics and a background in Pharmaceutical Manufacturing, I am eager to apply my analytical skills and industry knowledge to data-driven decision-making processes.  
 
 ## Technical Skillset :computer:
 - **SQL**: BigQuery, MySQL
